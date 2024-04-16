@@ -1,14 +1,14 @@
 {
   "expo": {
     "lan": "ip",
-    "name": "HelloWorld",
-    "slug": "HelloWorld",
+    "name": "HelloReact",
+    "slug": "HelloReact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "experiments": {
-      "baseUrl": "/HelloWorld"
+      "baseUrl": "/HelloReact"
     },
     "splash": {
       "image": "./assets/splash.png",
